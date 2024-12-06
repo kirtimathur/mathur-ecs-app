@@ -1,0 +1,6 @@
+[
+  {
+    "name": "mathur-container",
+    "imageUri": "992382683074.dkr.ecr.us-east-1.amazonaws.com/flask-api-repo:latest"
+  }
+]
